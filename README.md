@@ -4,10 +4,7 @@
 **What Does The Mod Do?**
 - Simple Snipes is a open source auction house sniper that automatically buys the listed item on auction depending on the price and the item.
 
-
-**How Do I Use The Mod?**
-- Simple Snipes is currently only available for 1.8.9
-
+**How To Use**
 
 - The config For the mod is very simple. 
 
@@ -23,7 +20,9 @@
 ---------------------------------------------------------------------------------------------------------------------
 
 **Setup Guide**
-
+ 
+ -As of now Simple Snipes only works for 1.8.9
+ 
 - Download the latest mod release
 
 - Put into your mods folder. By default your mods folder is C:\Users\%User%\AppData\Roaming\.minecraft\mods
