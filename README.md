@@ -20,4 +20,20 @@ For the price, enter the highest price that you will spend. The mod will automat
 Simple Snipes is a open source project dedicated to helping back the community.
 
 
+---------------------------------------------------------------------------------------------------------------------
+
+**Setup Guide**
+
+Download the latest mod release
+
+Put into your mods folder. By default your mods folder is C:\Users\%User%\AppData\Roaming\.minecraft\mods
+
+Launch your game and join Hypixel Skyblock
+
+Use '/api new' to automatically configure your api key
+
+
+
+
 Would be appreciated if you can let me know of any bugs, or Improvement updates needed to be added. Thank you
+
