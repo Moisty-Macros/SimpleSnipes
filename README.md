@@ -1,19 +1,16 @@
-# Auction-FLipper
+# NotEnoughCoins
 
-**What Does It Do?**
-SimpleSnipes is an auction house mod that snipes any price auction that you want.You set the price and the item and will auto buy whenever the item goes no AH.
+<img alt="Downloads" src="https://img.shields.io/github/downloads/mindlesslydev/notenoughcoins/total.svg" />
+<img alt="Downloads" src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Drobothanzo%26type%3Dpatrons" />
 
-**Is Simple Snipes Safe**
-Simple Snipes is a completly open source project dedicated to helping the community 
+A SkyBlock Flipping Mod.
+
+Discord - https://discord.gg/b3JBsh8fEd
+Premium - https://payhip.com/b/0MuhN
+
+- `/nec` - Shows the config GUI
+- `/nec help` - Shows the help message containing all the subcommands and their usage
+- `/nec toggle` - Enables the mod to return a list of suggested items to flip whenever one is found.
 
 
-Mod is for 1.8.9 with forge
-
-**How Do I Use The Mod?**
-/ss (item) (Min price)
-
-You have to use the NBT tag for the item you want to snipe to register with the mod
-
-**Have Any Questions?**
-
-Any questions or support DM me on Discord Techno#6230
+# We are not liable for any coins you lost by buying items without checking, flips aren't always perfect
