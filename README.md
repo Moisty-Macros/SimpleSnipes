@@ -2,22 +2,22 @@
 
 
 **What Does The Mod Do?**
-Simple Snipes is a open source auction house sniper that automatically buys the listed item on auction depending on the price and the item.
+-- Simple Snipes is a open source auction house sniper that automatically buys the listed item on auction depending on the price and the item.
 
 
 **How Do I Use The Mod?**
-Simple Snipes is currently only available for 1.8.9
+-- Simple Snipes is currently only available for 1.8.9
 
 
-The config For the mod is very simple. 
+-- The config For the mod is very simple. 
 
-/ss (Item) (Price)
+-- /ss (Item) (Price)
 
-For the price, enter the highest price that you will spend. The mod will automatically buy the item that is at a lower price.
+-- For the price, enter the highest price that you will spend. The mod will automatically buy the item that is at a lower price.
 
 **Is it Safe?**
 
-Simple Snipes is a open source project dedicated to helping back the community.
+-- Simple Snipes is a open source project dedicated to helping back the community.
 
 
 ---------------------------------------------------------------------------------------------------------------------
